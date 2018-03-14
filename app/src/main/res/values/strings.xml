@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestApp2</string>
+    <string name="title_activity_screen2">Screen2</string>
+    <string name="title_activity_main2">FinalActivity</string>
+    <string name="title_activity_final_screen">FinalScreen</string>
+    <string name="Prev">Prev</string>
+    <string name="Next">Next</string>
+    <string name="Done">Done</string>
+</resources>
